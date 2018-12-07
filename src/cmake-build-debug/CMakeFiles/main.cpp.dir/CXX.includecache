@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/albert/Desktop/gb28181gateway/src/Log.cpp
+Log.h
+/Users/albert/Desktop/gb28181gateway/src/Log.h
+
+/Users/albert/Desktop/gb28181gateway/src/Log.h
+fstream
+-
+boost/filesystem.hpp
+-
+boost/log/trivial.hpp
+-
+boost/log/utility/setup/common_attributes.hpp
+-
+boost/log/utility/setup/from_stream.hpp
+-
+boost/log/utility/setup/formatter_parser.hpp
+-
+boost/log/utility/setup/filter_parser.hpp
+-
+boost/log/sources/severity_logger.hpp
+-
+
+/Users/albert/Desktop/gb28181gateway/src/SdpUtil.cpp
+SdpUtil.h
+/Users/albert/Desktop/gb28181gateway/src/SdpUtil.h
+
+/Users/albert/Desktop/gb28181gateway/src/SdpUtil.h
+
+/Users/albert/Desktop/gb28181gateway/src/TtxService.cpp
+TtxService.h
+/Users/albert/Desktop/gb28181gateway/src/TtxService.h
+
+/Users/albert/Desktop/gb28181gateway/src/TtxService.h
+string
+-
+vector
+-
+

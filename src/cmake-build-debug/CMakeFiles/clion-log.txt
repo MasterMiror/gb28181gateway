@@ -1,0 +1,16 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/albert/Desktop/gb28181gateway/src
+-- Configuring done
+CMake Error at CMakeLists.txt:18 (ADD_EXECUTABLE):
+  Cannot find source file:
+
+    SipHeader.cpp
+
+  Tried extensions .c .C .c++ .cc .cpp .cxx .cu .m .M .mm .h .hh .h++ .hm
+  .hpp .hxx .in .txx
+
+
+CMake Error at CMakeLists.txt:18 (ADD_EXECUTABLE):
+  No SOURCES given to target: gb28181gateway
+
+
+-- Build files have been written to: /Users/albert/Desktop/gb28181gateway/src/cmake-build-debug

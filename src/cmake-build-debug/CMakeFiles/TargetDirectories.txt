@@ -1,0 +1,3 @@
+/Users/albert/Desktop/gb28181gateway/src/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/albert/Desktop/gb28181gateway/src/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/albert/Desktop/gb28181gateway/src/cmake-build-debug/CMakeFiles/main.cpp.dir

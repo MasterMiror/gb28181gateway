@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/main.cpp.dir/Log.cpp.o CMakeFiles/main.cpp.dir/SdpUtil.cpp.o CMakeFiles/main.cpp.dir/TtxService.cpp.o  -o main.cpp 
